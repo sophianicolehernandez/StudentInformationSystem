@@ -1,0 +1,14 @@
+C:\Users\Sophia\source\repos\StudentInformationSystem\bin\Debug\net6.0\StudentInformationSystem.exe
+C:\Users\Sophia\source\repos\StudentInformationSystem\bin\Debug\net6.0\StudentInformationSystem.deps.json
+C:\Users\Sophia\source\repos\StudentInformationSystem\bin\Debug\net6.0\StudentInformationSystem.runtimeconfig.json
+C:\Users\Sophia\source\repos\StudentInformationSystem\bin\Debug\net6.0\StudentInformationSystem.dll
+C:\Users\Sophia\source\repos\StudentInformationSystem\bin\Debug\net6.0\StudentInformationSystem.pdb
+C:\Users\Sophia\source\repos\StudentInformationSystem\obj\Debug\net6.0\StudentInformationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sophia\source\repos\StudentInformationSystem\obj\Debug\net6.0\StudentInformationSystem.AssemblyInfoInputs.cache
+C:\Users\Sophia\source\repos\StudentInformationSystem\obj\Debug\net6.0\StudentInformationSystem.AssemblyInfo.cs
+C:\Users\Sophia\source\repos\StudentInformationSystem\obj\Debug\net6.0\StudentInformationSystem.csproj.CoreCompileInputs.cache
+C:\Users\Sophia\source\repos\StudentInformationSystem\obj\Debug\net6.0\StudentInformationSystem.dll
+C:\Users\Sophia\source\repos\StudentInformationSystem\obj\Debug\net6.0\refint\StudentInformationSystem.dll
+C:\Users\Sophia\source\repos\StudentInformationSystem\obj\Debug\net6.0\StudentInformationSystem.pdb
+C:\Users\Sophia\source\repos\StudentInformationSystem\obj\Debug\net6.0\StudentInformationSystem.genruntimeconfig.cache
+C:\Users\Sophia\source\repos\StudentInformationSystem\obj\Debug\net6.0\ref\StudentInformationSystem.dll
